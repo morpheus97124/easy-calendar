@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/easy-calendar/static/css/main.6fa22c38.css",
-    "main.js": "/easy-calendar/static/js/main.e26b5994.js",
+    "main.css": "/easy-calendar/static/css/main.073c9b0a.css",
+    "main.js": "/easy-calendar/static/js/main.18b2713a.js",
     "static/js/787.97a59ebb.chunk.js": "/easy-calendar/static/js/787.97a59ebb.chunk.js",
     "index.html": "/easy-calendar/index.html",
-    "main.6fa22c38.css.map": "/easy-calendar/static/css/main.6fa22c38.css.map",
-    "main.e26b5994.js.map": "/easy-calendar/static/js/main.e26b5994.js.map",
+    "main.073c9b0a.css.map": "/easy-calendar/static/css/main.073c9b0a.css.map",
+    "main.18b2713a.js.map": "/easy-calendar/static/js/main.18b2713a.js.map",
     "787.97a59ebb.chunk.js.map": "/easy-calendar/static/js/787.97a59ebb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fa22c38.css",
-    "static/js/main.e26b5994.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.18b2713a.js"
   ]
 }
