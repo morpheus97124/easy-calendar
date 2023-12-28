@@ -1,0 +1,12 @@
+$unclickable: (
+  -moz-user-select: none,
+  -khtml-user-select: none,
+  -webkit-user-select: none,
+  -o-user-select: none
+);
+
+.day-num {
+  @each $name, $property in $unclickable {
+    #{$name}: $property;
+  }
+}
